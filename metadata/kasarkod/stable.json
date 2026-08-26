@@ -1,6 +1,6 @@
 {
-  "version": "1.0.6",
-  "publishedAt": "2026-08-16T09:06:50.2753175Z",
-  "installerUrl": "https://github.com/codenitros/BoatBookingSystemReleases/releases/download/kasarkod-v1.0.6/BoatBookingSystem-Kasarkod-1.0.6.msi",
-  "sha256": "172221bb2991302c9e5e274a7c4d5022162264db2e027541c300ba21dc8bb094"
+  "version": "1.0.0",
+  "publishedAt": "2026-08-26T14:16:10.9251713Z",
+  "installerUrl": "https://github.com/codenitros/BoatBookingSystemReleases/releases/download/kasarkod-v1.0.0/BoatBookingSystem-Kasarkod-1.0.0.msi",
+  "sha256": "91959b8545a30df62ce21ce9fe9dc65b519dddfbbd8204554a95070d80970757"
 }
