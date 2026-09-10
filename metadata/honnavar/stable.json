@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "publishedAt": "2026-08-26T14:33:56.8805591Z",
-  "installerUrl": "https://github.com/codenitros/BoatBookingSystemReleases/releases/download/honnavar-v1.0.1/BoatBookingSystem-Honnavar-1.0.1.msi",
-  "sha256": "10302fc504103b9c2cf1b4229d16cb1dd2e498bff3d7340ee4ae78955bcedf2e"
+  "version": "1.0.0",
+  "publishedAt": "2026-09-10T10:32:46.1953069Z",
+  "installerUrl": "https://github.com/codenitros/BoatBookingSystemReleases/releases/download/honnavar-v1.0.0/BoatBookingSystem-Honnavar-1.0.0.msi",
+  "sha256": "a6bcdacf9cd48881a072f40c1e665152af4418ed9b3aad4a4d33a4368b654ba1"
 }
